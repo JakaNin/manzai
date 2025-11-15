@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files
+*.swp
+*.swo
+*~
+.*.sw?
+
+# Backup files
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Personal notes (optional - remove if you want to track these)
+# ideas/personal/
+# feedback/private/
